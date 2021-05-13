@@ -1,0 +1,6 @@
+Action JSP2</title>
+</head>
+<body>
+<a>This is after forward page</a>
+</body>
+</html>
