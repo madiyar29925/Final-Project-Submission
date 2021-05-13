@@ -1,0 +1,2 @@
+INSERT INTO test_demo_db.address (city, street, house_no, user_id) VALUES ('Almaty', 'Sharipova', '89', 1);
+INSERT INTO test_demo_db.address (city, street, house_no, user_id) VALUES ('Astana', 'Kabanbay', '100', 8);

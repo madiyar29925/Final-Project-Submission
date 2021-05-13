@@ -1,0 +1,1 @@
+INSERT INTO test_demo_db.student (name, username) VALUES ('Tom', 'tom111');

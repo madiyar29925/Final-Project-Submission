@@ -1,0 +1,4 @@
+INSERT INTO test_demo_db.employee_salary (name, surname, salary, type, hour_rate, working_hours, commission_rate, sales) VALUES ('Sabina', 'Rakhmetulla', 50000, 'SALARIED', 0, 25, 0, 20000);
+INSERT INTO test_demo_db.employee_salary (name, surname, salary, type, hour_rate, working_hours, commission_rate, sales) VALUES ('Tomiris', 'Baizhigit', 45000, 'HOURLY', 1000, 40, 0, 25000);
+INSERT INTO test_demo_db.employee_salary (name, surname, salary, type, hour_rate, working_hours, commission_rate, sales) VALUES ('Aibike', 'Baizhigitova', 35000, 'COMMISSION', 0, 40, 5, 50000);
+INSERT INTO test_demo_db.employee_salary (name, surname, salary, type, hour_rate, working_hours, commission_rate, sales) VALUES ('Arsen', 'Musagulov', 526, 'SALARIED_COMMISSION', 0, 40, 7, 15000);

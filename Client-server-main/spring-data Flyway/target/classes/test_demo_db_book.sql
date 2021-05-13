@@ -1,0 +1,1 @@
+INSERT INTO test_demo_db.book (author, title) VALUES ('Carnegie', 'SDP');
